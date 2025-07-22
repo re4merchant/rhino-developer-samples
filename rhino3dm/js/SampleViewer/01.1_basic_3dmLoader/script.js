@@ -3,7 +3,7 @@ import * as THREE from 'three'
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls'
 import { Rhino3dmLoader } from 'three/examples/jsm/loaders/3DMLoader'
 
-const model = 'hello_mesh.3dm'
+const model = 'redShadow.3dm'
 
 // BOILERPLATE //
 let scene, camera, renderer
